@@ -10,13 +10,13 @@
 Ya saben usar git!
 
 
-## Estudiante: Nombre estudiante
+## Estudiante: Agustina Rey Brienza
 
-Descripción
+Tengo 25 años, trabajo, estudio programación en la UNSAM. Juego basquet y también estoy en el equipo de básquet de la facu me gusta cantar, toco la guitarra.
 
 Foto de mi persona:
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+![d](https://i.postimg.cc/RV6K1DPQ/FOTO-4x4.png)
 
 Diente de Leon
 
